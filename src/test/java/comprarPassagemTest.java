@@ -24,6 +24,8 @@ public class comprarPassagemTest {
   @AfterEach
   public void tearDown() {
     driver.quit();
+
+    
   }
   @Test
   public void comprarpassagem() {
